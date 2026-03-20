@@ -1231,6 +1231,7 @@ SKILL_DESCRIPTIONS = {
     "constitution": "Create or update project governing principles and development guidelines. Use at project start to establish code quality, testing standards, and architectural constraints that guide all development.",
     "checklist": "Generate custom quality checklists for validating requirements completeness and clarity. Use to create unit tests for English that ensure spec quality before implementation.",
     "taskstoissues": "Convert tasks from tasks.md into GitHub issues. Use after task breakdown to track work items in GitHub project management.",
+    "rebrand": "Systematically rebrand a project by finding and replacing brand identifiers, names, domains, and assets throughout the codebase. Use when renaming or rebranding an existing project.",
 }
 
 
